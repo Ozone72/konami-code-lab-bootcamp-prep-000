@@ -1,6 +1,7 @@
 //const code = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65]
 
 function init() {
+  
   // Key codes for A, B, and C keys.
   const alphabet = [65, 66, 67];
 
